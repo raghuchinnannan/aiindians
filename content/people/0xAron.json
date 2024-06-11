@@ -1,0 +1,28 @@
+{
+  "name": "Aron",
+  "username": "@0xAron",
+  "productDescription": "Multi-agentic framework that solves complex problems with a team of AI agents, behaving like a group of experts in a war room.",
+  "createdAt": "2020-09-23T11:15:15.000Z",
+  "description": "You can't take the sky from me 🛸 👾 https://t.co/fjSU9lY5p1",
+  "profileImageUrl": "https://pbs.twimg.com/profile_images/1763277546916020224/9-1SqNVw_normal.png",
+  "metrics": {
+    "followersCount": 1659,
+    "followingCount": 1209,
+    "tweetCount": 1306,
+    "listedCount": 3
+  },
+  "url": null,
+  "verified": false,
+  "location": null,
+  "profileCreatedAt": "2020-09-23T11:15:15.000Z",
+  "profileDescription": "You can't take the sky from me 🛸 👾 https://t.co/fjSU9lY5p1",
+  "profileMetrics": {
+    "followersCount": 1659,
+    "followingCount": 1209,
+    "tweetCount": 1306,
+    "listedCount": 3
+  },
+  "profileLocation": null,
+  "profileUrl": null,
+  "profileIsVerified": false
+}
