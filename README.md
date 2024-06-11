@@ -1,42 +1,7 @@
-# Content v2 Minimal Starter
+# AI Indians 🧠 🇮🇳
 
-Look at the [Content documentation](https://content.nuxt.com/) to learn more.
+Celebrating India’s AI Builders
 
-## Setup
+A resource to celebrate and stay updated with the latest AI projects & people in India.
 
-Make sure to install the dependencies:
-
-```bash
-# yarn
-yarn install
-
-# npm
-npm install
-
-# pnpm
-pnpm install
-```
-
-## Development Server
-
-Start the development server on http://localhost:3000
-
-```bash
-npm run dev
-```
-
-## Production
-
-Build the application for production:
-
-```bash
-npm run build
-```
-
-Locally preview production build:
-
-```bash
-npm run preview
-```
-
-Checkout the [deployment documentation](https://nuxt.com/docs/getting-started/deployment) for more information.
+Built using Nuxt 3 & Nuxt Content. Static generated & hosted on Github.
