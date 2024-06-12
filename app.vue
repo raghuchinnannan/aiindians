@@ -6,6 +6,8 @@
     <div class="hero">
       <div class="logo"><Icon name="i-ph-brain-thin" /> AI Indians</div>
       A resource to celebrate and stay updated with the latest AI projects & people in India.<br>
+      <div v-if="projectCount > 0 || peopleCount > 0">Featuring <span class="text-green-300">{{ projectCount }}</span> projects and <span class="text-green-300">{{ peopleCount }}</span> people.</div>
+      <div><NuxtLink to="/contact">Submit a Project &rarr;</NuxtLink></div>
     </div>
     <nav>
       <NuxtLink
@@ -175,26 +177,35 @@ nav a:hover {
   }
 }
 </style>
-
 <script>
+import { useAsyncData, useNuxtApp, useRoute } from 'nuxt/app';
+import { ref, computed } from 'vue';
+
 export default {
   name: 'DefaultLayout',
-  data() {
-    return {
-      menus: [
-        { slug: '/leaderboard', icon: '🏆', name: 'Leaderboard' },
-        { slug: '/', icon: '💼', name: 'Projects' },
-        { slug: '/people', icon: '🧗', name: 'People' },
-        { slug: '/communities', icon: '👥', name: 'Communities' },
-        { slug: '/contact', icon: '📩', name: 'Feedback' }
-      ]
-    }
-  },
-  computed: {
-    pageTitle () {
-      const currentMenu = this.menus.find(menu => menu.slug === this.$route.path);
+  setup() {
+    const nuxtApp = useNuxtApp();
+    const route = useRoute();
+    const menus = ref([
+      { slug: '/leaderboard', icon: '🏆', name: 'Leaderboard' },
+      { slug: '/', icon: '💼', name: 'Projects' },
+      { slug: '/people', icon: '🧗', name: 'People' },
+      { slug: '/communities', icon: '👥', name: 'Communities' },
+      { slug: '/contact', icon: '📩', name: 'Contact' }
+    ]);
+
+    const { data: projectsData } = useAsyncData('projects', () => queryContent('projects').find());
+    const { data: peopleData } = useAsyncData('people', () => queryContent('people').find());
+
+    const projectCount = computed(() => projectsData.value?.length);
+    const peopleCount = computed(() => peopleData.value?.length);
+
+    const pageTitle = computed(() => {
+      const currentMenu = menus.value.find(menu => menu.slug === route.path);
       return currentMenu ? currentMenu.name : '';
-    }
+    });
+
+    return { menus, projectCount, peopleCount, pageTitle };
   }
 }
 </script>

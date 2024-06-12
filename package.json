@@ -5,13 +5,15 @@
     "build": "nuxt build",
     "dev": "nuxt dev",
     "generate": "nuxt generate",
-    "preview": "nuxt preview"
+    "preview": "nuxt preview",
+    "gh-deploy": "git push origin :gh-pages && git subtree push --prefix .output/public origin gh-pages"
   },
   "dependencies": {
     "@nuxt/content": "^2.12.1",
-    "@nuxt/fonts": "^0.7.0",
     "@nuxt/ui": "^2.16.0",
-    "nuxt": "^3.11.2"
+    "@nuxtjs/google-fonts": "^3.2.0",
+    "nuxt": "^3.11.2",
+    "nuxt-gtag": "^2.0.6"
   },
   "packageManager": "yarn@1.22.22+sha512.a6b2f7906b721bba3d67d4aff083df04dad64c399707841b7acf00f6b133b7ac24255f2652fa22ae3534329dc6180534e98d17432037ff6fd140556e2bb3137e"
 }

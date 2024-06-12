@@ -7,10 +7,13 @@
       class="box"
     >
       <div class="community-name">
-        <a :href="community.url" rel="nofollow" target="_blank" class="link-modern">
-          <img :src="community.icon" class="w-10 h-10">
-          {{ community.name }}
-          <UIcon name="i-fa6-brands-discord" />
+        <a :href="community.url" rel="nofollow" target="_blank" class="flex flex-row justify-between">
+          <div>
+            <img :src="community.icon" class="w-10 h-10">
+            {{ community.name }}
+            <Icon name="i-fa6-brands-discord" />
+          </div>
+        <button class="bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded">Join</button>
         </a>
       </div>
     </div>

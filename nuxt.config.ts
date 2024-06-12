@@ -1,7 +1,15 @@
 // https://nuxt.com/docs/api/configuration/nuxt-config
 export default defineNuxtConfig({
   devtools: { enabled: true },
-  modules: ['@nuxt/content', "@nuxt/ui", "@nuxt/fonts"],
+  modules: ['@nuxt/content', "@nuxt/ui", "nuxt-gtag", "@nuxtjs/google-fonts"],
+  gtag: {
+    id: 'G-0RGBZWM2S5'
+  },
+  googleFonts: {
+    families: {
+      'Space Grotesk': '300..700',
+    }
+  },
   app: {
     head: {
       title: 'AI Indians · Celebrating India’s AI Builders',
