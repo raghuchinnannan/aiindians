@@ -1,10 +1,7 @@
 // https://nuxt.com/docs/api/configuration/nuxt-config
 export default defineNuxtConfig({
   devtools: { enabled: true },
-  modules: ['@nuxt/content', "@nuxt/ui", "nuxt-gtag"],
-  gtag: {
-    id: 'G-0RGBZWM2S5'
-  },
+  modules: ['@nuxt/content', "@nuxt/ui"],
   app: {
     head: {
       title: 'AI Indians · Celebrating India’s AI Builders',
@@ -19,6 +16,23 @@ export default defineNuxtConfig({
         { rel: 'preconnect', href: 'https://fonts.gstatic.com' },
         { rel: 'stylesheet', href: 'https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@300..700&display=swap' },
         { rel: 'icon', type: 'image/x-icon', href: '/favicon.png' },
+      ],
+      script: [
+        {
+          hid: 'gtag-js',
+          src: 'https://www.googletagmanager.com/gtag/js?id=G-0RGBZWM2S5',
+          async: true
+        },
+        {
+          hid: 'gtag-init',
+          innerHTML: `
+            window.dataLayer = window.dataLayer || [];
+            function gtag(){dataLayer.push(arguments);}
+            gtag('js', new Date());
+            gtag('config', 'G-0RGBZWM2S5');
+          `,
+          type: 'text/javascript'
+        }
       ]
     }
   }
