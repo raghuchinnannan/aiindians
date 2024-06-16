@@ -14,5 +14,19 @@
   },
   "profileLocation": "Earth",
   "profileUrl": null,
-  "profileIsVerified": false
+  "profileIsVerified": false,
+  "profileMetricsLog": [
+    {
+      "date": "2024-06-12",
+      "followersCount": 932,
+      "followingCount": 2611,
+      "tweetCount": 2709
+    },
+    {
+      "date": "2024-06-16",
+      "followersCount": 1043,
+      "followingCount": 2689,
+      "tweetCount": 2763
+    }
+  ]
 }

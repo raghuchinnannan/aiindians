@@ -14,5 +14,19 @@
   },
   "profileLocation": "Nomad",
   "profileUrl": "https://Gourav.io",
-  "profileIsVerified": false
+  "profileIsVerified": false,
+  "profileMetricsLog": [
+    {
+      "date": "2024-06-12",
+      "followersCount": 2122,
+      "followingCount": 151,
+      "tweetCount": 723
+    },
+    {
+      "date": "2024-06-16",
+      "followersCount": 2146,
+      "followingCount": 151,
+      "tweetCount": 735
+    }
+  ]
 }

@@ -14,5 +14,19 @@
   },
   "profileLocation": "Get 1 deep dive every week👇",
   "profileUrl": "https://superframeworks.com/join",
-  "profileIsVerified": false
+  "profileIsVerified": false,
+  "profileMetricsLog": [
+    {
+      "date": "2024-06-12",
+      "followersCount": 8859,
+      "followingCount": 2424,
+      "tweetCount": 35839
+    },
+    {
+      "date": "2024-06-16",
+      "followersCount": 8975,
+      "followingCount": 2447,
+      "tweetCount": 36017
+    }
+  ]
 }

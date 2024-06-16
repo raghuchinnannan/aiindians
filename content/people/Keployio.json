@@ -14,5 +14,19 @@
   },
   "profileLocation": "United States",
   "profileUrl": "https://github.com/keploy/keploy",
-  "profileIsVerified": false
+  "profileIsVerified": false,
+  "profileMetricsLog": [
+    {
+      "date": "2024-06-12",
+      "followersCount": 1263,
+      "followingCount": 8,
+      "tweetCount": 852
+    },
+    {
+      "date": "2024-06-16",
+      "followersCount": 1281,
+      "followingCount": 8,
+      "tweetCount": 867
+    }
+  ]
 }

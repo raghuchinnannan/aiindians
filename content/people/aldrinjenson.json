@@ -13,5 +13,19 @@
   },
   "profileLocation": "Cochin, India",
   "profileUrl": "https://www.aldrinjenson.com/",
-  "profileIsVerified": false
+  "profileIsVerified": false,
+  "profileMetricsLog": [
+    {
+      "date": "2024-06-12",
+      "followersCount": 303,
+      "followingCount": 298,
+      "tweetCount": 247
+    },
+    {
+      "date": "2024-06-16",
+      "followersCount": 311,
+      "followingCount": 305,
+      "tweetCount": 256
+    }
+  ]
 }

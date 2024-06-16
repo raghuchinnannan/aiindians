@@ -13,5 +13,19 @@
   },
   "profileLocation": "Gurgaon, India",
   "profileUrl": "https://m.aisensy.com/",
-  "profileIsVerified": false
+  "profileIsVerified": false,
+  "profileMetricsLog": [
+    {
+      "date": "2024-06-12",
+      "followersCount": 559,
+      "followingCount": 1002,
+      "tweetCount": 1811
+    },
+    {
+      "date": "2024-06-16",
+      "followersCount": 572,
+      "followingCount": 1003,
+      "tweetCount": 1817
+    }
+  ]
 }

@@ -13,5 +13,19 @@
   },
   "profileLocation": "India",
   "profileUrl": null,
-  "profileIsVerified": false
+  "profileIsVerified": false,
+  "profileMetricsLog": [
+    {
+      "date": "2024-06-12",
+      "followersCount": 1014,
+      "followingCount": 450,
+      "tweetCount": 5184
+    },
+    {
+      "date": "2024-06-16",
+      "followersCount": 1018,
+      "followingCount": 456,
+      "tweetCount": 5270
+    }
+  ]
 }

@@ -14,5 +14,19 @@
   },
   "profileLocation": "Indore ",
   "profileUrl": "http://AyushUnleashed.com",
-  "profileIsVerified": false
+  "profileIsVerified": false,
+  "profileMetricsLog": [
+    {
+      "date": "2024-06-12",
+      "followersCount": 4128,
+      "followingCount": 2285,
+      "tweetCount": 9616
+    },
+    {
+      "date": "2024-06-16",
+      "followersCount": 4224,
+      "followingCount": 2337,
+      "tweetCount": 9994
+    }
+  ]
 }

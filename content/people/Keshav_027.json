@@ -14,5 +14,19 @@
   },
   "profileLocation": "SF / The Gundo",
   "profileUrl": "http://augrade.com",
-  "profileIsVerified": false
+  "profileIsVerified": false,
+  "profileMetricsLog": [
+    {
+      "date": "2024-06-12",
+      "followersCount": 1917,
+      "followingCount": 1054,
+      "tweetCount": 2376
+    },
+    {
+      "date": "2024-06-16",
+      "followersCount": 3272,
+      "followingCount": 1082,
+      "tweetCount": 2425
+    }
+  ]
 }

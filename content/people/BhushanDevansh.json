@@ -14,5 +14,19 @@
   },
   "profileLocation": "Punjab, India",
   "profileUrl": "https://indiepa.ge/bhushan",
-  "profileIsVerified": false
+  "profileIsVerified": false,
+  "profileMetricsLog": [
+    {
+      "date": "2024-06-12",
+      "followersCount": 144,
+      "followingCount": 141,
+      "tweetCount": 770
+    },
+    {
+      "date": "2024-06-16",
+      "followersCount": 161,
+      "followingCount": 146,
+      "tweetCount": 776
+    }
+  ]
 }

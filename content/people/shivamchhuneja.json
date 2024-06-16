@@ -14,5 +14,19 @@
   },
   "profileLocation": "India",
   "profileUrl": "http://www.linkedin.com/in/shivamchhuneja",
-  "profileIsVerified": false
+  "profileIsVerified": false,
+  "profileMetricsLog": [
+    {
+      "date": "2024-06-12",
+      "followersCount": 18003,
+      "followingCount": 1774,
+      "tweetCount": 22640
+    },
+    {
+      "date": "2024-06-16",
+      "followersCount": 17991,
+      "followingCount": 1776,
+      "tweetCount": 22656
+    }
+  ]
 }

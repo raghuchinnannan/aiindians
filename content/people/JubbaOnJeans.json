@@ -14,5 +14,19 @@
   },
   "profileLocation": "Bengaluru, India",
   "profileUrl": "https://seezo.io",
-  "profileIsVerified": false
+  "profileIsVerified": false,
+  "profileMetricsLog": [
+    {
+      "date": "2024-06-12",
+      "followersCount": 1843,
+      "followingCount": 431,
+      "tweetCount": 10618
+    },
+    {
+      "date": "2024-06-16",
+      "followersCount": 1866,
+      "followingCount": 438,
+      "tweetCount": 10632
+    }
+  ]
 }

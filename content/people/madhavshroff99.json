@@ -14,5 +14,19 @@
   },
   "profileLocation": "Washington, DC",
   "profileUrl": "http://madhavshroff.com",
-  "profileIsVerified": false
+  "profileIsVerified": false,
+  "profileMetricsLog": [
+    {
+      "date": "2024-06-12",
+      "followersCount": 296,
+      "followingCount": 696,
+      "tweetCount": 741
+    },
+    {
+      "date": "2024-06-16",
+      "followersCount": 331,
+      "followingCount": 703,
+      "tweetCount": 783
+    }
+  ]
 }

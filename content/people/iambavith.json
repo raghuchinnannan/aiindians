@@ -13,5 +13,19 @@
   },
   "profileLocation": "Tamil Nadu, India",
   "profileUrl": "https://www.iambavith.dev",
-  "profileIsVerified": false
+  "profileIsVerified": false,
+  "profileMetricsLog": [
+    {
+      "date": "2024-06-12",
+      "followersCount": 1161,
+      "followingCount": 103,
+      "tweetCount": 2762
+    },
+    {
+      "date": "2024-06-16",
+      "followersCount": 1462,
+      "followingCount": 104,
+      "tweetCount": 2773
+    }
+  ]
 }

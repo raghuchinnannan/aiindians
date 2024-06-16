@@ -14,5 +14,19 @@
   },
   "profileLocation": null,
   "profileUrl": "https://www.stimuler.tech",
-  "profileIsVerified": false
+  "profileIsVerified": false,
+  "profileMetricsLog": [
+    {
+      "date": "2024-06-12",
+      "followersCount": 1446,
+      "followingCount": 1297,
+      "tweetCount": 956
+    },
+    {
+      "date": "2024-06-16",
+      "followersCount": 1458,
+      "followingCount": 1316,
+      "tweetCount": 981
+    }
+  ]
 }

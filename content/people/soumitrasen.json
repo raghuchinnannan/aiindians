@@ -14,5 +14,19 @@
   },
   "profileLocation": "Remote",
   "profileUrl": "https://linktr.ee/soumitrasengupta",
-  "profileIsVerified": false
+  "profileIsVerified": false,
+  "profileMetricsLog": [
+    {
+      "date": "2024-06-12",
+      "followersCount": 1240,
+      "followingCount": 1795,
+      "tweetCount": 9703
+    },
+    {
+      "date": "2024-06-16",
+      "followersCount": 1256,
+      "followingCount": 1795,
+      "tweetCount": 9708
+    }
+  ]
 }

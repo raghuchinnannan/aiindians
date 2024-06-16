@@ -14,5 +14,19 @@
   },
   "profileLocation": "Mumbai, India",
   "profileUrl": null,
-  "profileIsVerified": false
+  "profileIsVerified": false,
+  "profileMetricsLog": [
+    {
+      "date": "2024-06-12",
+      "followersCount": 645,
+      "followingCount": 144,
+      "tweetCount": 7234
+    },
+    {
+      "date": "2024-06-16",
+      "followersCount": 706,
+      "followingCount": 145,
+      "tweetCount": 7341
+    }
+  ]
 }

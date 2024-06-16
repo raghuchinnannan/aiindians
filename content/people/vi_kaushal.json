@@ -14,5 +14,19 @@
   },
   "profileLocation": "Bengaluru, India",
   "profileUrl": "http://vivekkaushal.com",
-  "profileIsVerified": false
+  "profileIsVerified": false,
+  "profileMetricsLog": [
+    {
+      "date": "2024-06-12",
+      "followersCount": 775,
+      "followingCount": 1000,
+      "tweetCount": 2251
+    },
+    {
+      "date": "2024-06-16",
+      "followersCount": 781,
+      "followingCount": 887,
+      "tweetCount": 2286
+    }
+  ]
 }

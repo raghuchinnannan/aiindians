@@ -14,5 +14,19 @@
   },
   "profileLocation": "Santa Clara, CA",
   "profileUrl": "https://genloop.ai",
-  "profileIsVerified": false
+  "profileIsVerified": false,
+  "profileMetricsLog": [
+    {
+      "date": "2024-06-12",
+      "followersCount": 51,
+      "followingCount": 381,
+      "tweetCount": 317
+    },
+    {
+      "date": "2024-06-16",
+      "followersCount": 66,
+      "followingCount": 385,
+      "tweetCount": 318
+    }
+  ]
 }

@@ -14,5 +14,19 @@
   },
   "profileLocation": null,
   "profileUrl": "https://fof.link/",
-  "profileIsVerified": false
+  "profileIsVerified": false,
+  "profileMetricsLog": [
+    {
+      "date": "2024-06-12",
+      "followersCount": 6280,
+      "followingCount": 6026,
+      "tweetCount": 46977
+    },
+    {
+      "date": "2024-06-16",
+      "followersCount": 6334,
+      "followingCount": 6121,
+      "tweetCount": 47119
+    }
+  ]
 }

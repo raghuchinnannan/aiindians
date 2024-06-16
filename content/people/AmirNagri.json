@@ -14,5 +14,19 @@
   },
   "profileLocation": "Bangalore, India",
   "profileUrl": "http://bit.ly/twt-amir",
-  "profileIsVerified": false
+  "profileIsVerified": false,
+  "profileMetricsLog": [
+    {
+      "date": "2024-06-12",
+      "followersCount": 588,
+      "followingCount": 230,
+      "tweetCount": 1361
+    },
+    {
+      "date": "2024-06-16",
+      "followersCount": 598,
+      "followingCount": 230,
+      "tweetCount": 1361
+    }
+  ]
 }

@@ -14,5 +14,19 @@
   },
   "profileLocation": "Kanpur, India",
   "profileUrl": "https://bit.ly/DUALITE",
-  "profileIsVerified": false
+  "profileIsVerified": false,
+  "profileMetricsLog": [
+    {
+      "date": "2024-06-12",
+      "followersCount": 426,
+      "followingCount": 969,
+      "tweetCount": 1091
+    },
+    {
+      "date": "2024-06-16",
+      "followersCount": 427,
+      "followingCount": 971,
+      "tweetCount": 1096
+    }
+  ]
 }

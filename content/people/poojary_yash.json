@@ -14,5 +14,19 @@
   },
   "profileLocation": "blr/bom",
   "profileUrl": "https://yashpoojary.com/",
-  "profileIsVerified": false
+  "profileIsVerified": false,
+  "profileMetricsLog": [
+    {
+      "date": "2024-06-12",
+      "followersCount": 438,
+      "followingCount": 934,
+      "tweetCount": 792
+    },
+    {
+      "date": "2024-06-16",
+      "followersCount": 495,
+      "followingCount": 962,
+      "tweetCount": 826
+    }
+  ]
 }

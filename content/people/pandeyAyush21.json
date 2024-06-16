@@ -14,5 +14,19 @@
   },
   "profileLocation": "Building ",
   "profileUrl": "http://skillvalley.in",
-  "profileIsVerified": false
+  "profileIsVerified": false,
+  "profileMetricsLog": [
+    {
+      "date": "2024-06-12",
+      "followersCount": 3082,
+      "followingCount": 340,
+      "tweetCount": 15108
+    },
+    {
+      "date": "2024-06-16",
+      "followersCount": 3081,
+      "followingCount": 340,
+      "tweetCount": 15117
+    }
+  ]
 }

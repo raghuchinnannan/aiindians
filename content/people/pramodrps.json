@@ -14,5 +14,19 @@
   },
   "profileLocation": "Auroville",
   "profileUrl": null,
-  "profileIsVerified": false
+  "profileIsVerified": false,
+  "profileMetricsLog": [
+    {
+      "date": "2024-06-12",
+      "followersCount": 377,
+      "followingCount": 1309,
+      "tweetCount": 1012
+    },
+    {
+      "date": "2024-06-16",
+      "followersCount": 391,
+      "followingCount": 1313,
+      "tweetCount": 1013
+    }
+  ]
 }

@@ -14,5 +14,19 @@
   },
   "profileLocation": "Mumbai",
   "profileUrl": "https://apps.shopify.com/xena",
-  "profileIsVerified": false
+  "profileIsVerified": false,
+  "profileMetricsLog": [
+    {
+      "date": "2024-06-12",
+      "followersCount": 83,
+      "followingCount": 370,
+      "tweetCount": 341
+    },
+    {
+      "date": "2024-06-16",
+      "followersCount": 87,
+      "followingCount": 378,
+      "tweetCount": 347
+    }
+  ]
 }

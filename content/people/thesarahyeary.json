@@ -14,5 +14,19 @@
   },
   "profileLocation": "Beneath a w[illy]ow tree.",
   "profileUrl": "https://zaap.bio/thesarahyeary",
-  "profileIsVerified": false
+  "profileIsVerified": false,
+  "profileMetricsLog": [
+    {
+      "date": "2024-06-12",
+      "followersCount": 1057,
+      "followingCount": 707,
+      "tweetCount": 14112
+    },
+    {
+      "date": "2024-06-16",
+      "followersCount": 1070,
+      "followingCount": 708,
+      "tweetCount": 14113
+    }
+  ]
 }

@@ -13,5 +13,19 @@
   },
   "profileLocation": "Bengaluru, India",
   "profileUrl": "https://aisteth.com/",
-  "profileIsVerified": false
+  "profileIsVerified": false,
+  "profileMetricsLog": [
+    {
+      "date": "2024-06-12",
+      "followersCount": 2569,
+      "followingCount": 5422,
+      "tweetCount": 7485
+    },
+    {
+      "date": "2024-06-16",
+      "followersCount": 2579,
+      "followingCount": 5436,
+      "tweetCount": 7489
+    }
+  ]
 }

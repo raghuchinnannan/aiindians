@@ -14,5 +14,19 @@
   },
   "profileLocation": "Gurgaon/Madhubani India",
   "profileUrl": "https://varency.com/",
-  "profileIsVerified": false
+  "profileIsVerified": false,
+  "profileMetricsLog": [
+    {
+      "date": "2024-06-12",
+      "followersCount": 279,
+      "followingCount": 1102,
+      "tweetCount": 3842
+    },
+    {
+      "date": "2024-06-16",
+      "followersCount": 286,
+      "followingCount": 1102,
+      "tweetCount": 3848
+    }
+  ]
 }

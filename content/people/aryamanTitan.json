@@ -14,5 +14,19 @@
   },
   "profileLocation": "India",
   "profileUrl": "https://repello.ai",
-  "profileIsVerified": false
+  "profileIsVerified": false,
+  "profileMetricsLog": [
+    {
+      "date": "2024-06-12",
+      "followersCount": 443,
+      "followingCount": 856,
+      "tweetCount": 162
+    },
+    {
+      "date": "2024-06-16",
+      "followersCount": 475,
+      "followingCount": 863,
+      "tweetCount": 169
+    }
+  ]
 }

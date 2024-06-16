@@ -14,5 +14,19 @@
   },
   "profileLocation": "Bengaluru, India",
   "profileUrl": "https://offthreadr.com",
-  "profileIsVerified": false
+  "profileIsVerified": false,
+  "profileMetricsLog": [
+    {
+      "date": "2024-06-12",
+      "followersCount": 132,
+      "followingCount": 527,
+      "tweetCount": 634
+    },
+    {
+      "date": "2024-06-16",
+      "followersCount": 140,
+      "followingCount": 527,
+      "tweetCount": 646
+    }
+  ]
 }

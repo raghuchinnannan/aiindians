@@ -14,5 +14,19 @@
   },
   "profileLocation": "New Delhi, India",
   "profileUrl": "https://bit.ly/m/DeepanshuSingh",
-  "profileIsVerified": false
+  "profileIsVerified": false,
+  "profileMetricsLog": [
+    {
+      "date": "2024-06-12",
+      "followersCount": 22744,
+      "followingCount": 849,
+      "tweetCount": 2799
+    },
+    {
+      "date": "2024-06-16",
+      "followersCount": 24089,
+      "followingCount": 865,
+      "tweetCount": 2948
+    }
+  ]
 }

@@ -14,5 +14,19 @@
   },
   "profileLocation": null,
   "profileUrl": "http://www.linkedin.com/in/hristart",
-  "profileIsVerified": false
+  "profileIsVerified": false,
+  "profileMetricsLog": [
+    {
+      "date": "2024-06-12",
+      "followersCount": 142,
+      "followingCount": 904,
+      "tweetCount": 1359
+    },
+    {
+      "date": "2024-06-16",
+      "followersCount": 170,
+      "followingCount": 990,
+      "tweetCount": 1407
+    }
+  ]
 }

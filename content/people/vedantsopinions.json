@@ -14,5 +14,19 @@
   },
   "profileLocation": "San Francisco",
   "profileUrl": "https://medium.com/@vedantsopinions",
-  "profileIsVerified": false
+  "profileIsVerified": false,
+  "profileMetricsLog": [
+    {
+      "date": "2024-06-12",
+      "followersCount": 935,
+      "followingCount": 613,
+      "tweetCount": 2477
+    },
+    {
+      "date": "2024-06-16",
+      "followersCount": 969,
+      "followingCount": 617,
+      "tweetCount": 2492
+    }
+  ]
 }

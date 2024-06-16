@@ -14,5 +14,19 @@
   },
   "profileLocation": "Mumbai, India",
   "profileUrl": "http://betterstacks.com",
-  "profileIsVerified": false
+  "profileIsVerified": false,
+  "profileMetricsLog": [
+    {
+      "date": "2024-06-12",
+      "followersCount": 333,
+      "followingCount": 662,
+      "tweetCount": 1328
+    },
+    {
+      "date": "2024-06-16",
+      "followersCount": 356,
+      "followingCount": 685,
+      "tweetCount": 1363
+    }
+  ]
 }

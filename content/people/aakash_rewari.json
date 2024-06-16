@@ -13,5 +13,19 @@
   },
   "profileLocation": "Rewari, India",
   "profileUrl": "https://www.linkedin.com/in/tensorflow-aakash/details/certifications/",
-  "profileIsVerified": false
+  "profileIsVerified": false,
+  "profileMetricsLog": [
+    {
+      "date": "2024-06-12",
+      "followersCount": 277,
+      "followingCount": 923,
+      "tweetCount": 15817
+    },
+    {
+      "date": "2024-06-16",
+      "followersCount": 287,
+      "followingCount": 926,
+      "tweetCount": 16041
+    }
+  ]
 }

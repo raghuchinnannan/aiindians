@@ -13,5 +13,19 @@
   },
   "profileLocation": "Bengaluru, India",
   "profileUrl": "https://fueler.io/nimisha",
-  "profileIsVerified": false
+  "profileIsVerified": false,
+  "profileMetricsLog": [
+    {
+      "date": "2024-06-12",
+      "followersCount": 786,
+      "followingCount": 400,
+      "tweetCount": 3471
+    },
+    {
+      "date": "2024-06-16",
+      "followersCount": 789,
+      "followingCount": 402,
+      "tweetCount": 3551
+    }
+  ]
 }

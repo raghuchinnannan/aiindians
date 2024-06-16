@@ -14,5 +14,19 @@
   },
   "profileLocation": "Rajkot, India",
   "profileUrl": "https://desku.io",
-  "profileIsVerified": false
+  "profileIsVerified": false,
+  "profileMetricsLog": [
+    {
+      "date": "2024-06-12",
+      "followersCount": 291,
+      "followingCount": 1164,
+      "tweetCount": 566
+    },
+    {
+      "date": "2024-06-16",
+      "followersCount": 309,
+      "followingCount": 1166,
+      "tweetCount": 567
+    }
+  ]
 }

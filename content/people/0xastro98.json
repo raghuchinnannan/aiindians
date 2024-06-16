@@ -25,5 +25,19 @@
   },
   "profileLocation": "🇮🇳🇺🇸🇦🇪",
   "profileUrl": "https://flashmates.tech",
-  "profileIsVerified": false
+  "profileIsVerified": false,
+  "profileMetricsLog": [
+    {
+      "date": "2024-06-12",
+      "followersCount": 3187,
+      "followingCount": 920,
+      "tweetCount": 17533
+    },
+    {
+      "date": "2024-06-16",
+      "followersCount": 3219,
+      "followingCount": 922,
+      "tweetCount": 17699
+    }
+  ]
 }

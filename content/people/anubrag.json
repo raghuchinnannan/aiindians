@@ -14,5 +14,19 @@
   },
   "profileLocation": "Earth",
   "profileUrl": "https://github.com/dot-agent/nextpy",
-  "profileIsVerified": false
+  "profileIsVerified": false,
+  "profileMetricsLog": [
+    {
+      "date": "2024-06-12",
+      "followersCount": 652,
+      "followingCount": 800,
+      "tweetCount": 296
+    },
+    {
+      "date": "2024-06-16",
+      "followersCount": 680,
+      "followingCount": 815,
+      "tweetCount": 310
+    }
+  ]
 }

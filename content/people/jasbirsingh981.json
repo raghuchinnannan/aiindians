@@ -14,5 +14,19 @@
   },
   "profileLocation": "Chandigarh, India",
   "profileUrl": "http://slideoo.ai",
-  "profileIsVerified": false
+  "profileIsVerified": false,
+  "profileMetricsLog": [
+    {
+      "date": "2024-06-12",
+      "followersCount": 56,
+      "followingCount": 9,
+      "tweetCount": 17
+    },
+    {
+      "date": "2024-06-16",
+      "followersCount": 56,
+      "followingCount": 10,
+      "tweetCount": 17
+    }
+  ]
 }

@@ -14,5 +14,19 @@
   },
   "profileLocation": "Kolkata, India",
   "profileUrl": null,
-  "profileIsVerified": false
+  "profileIsVerified": false,
+  "profileMetricsLog": [
+    {
+      "date": "2024-06-12",
+      "followersCount": 313,
+      "followingCount": 239,
+      "tweetCount": 3304
+    },
+    {
+      "date": "2024-06-16",
+      "followersCount": 359,
+      "followingCount": 266,
+      "tweetCount": 3352
+    }
+  ]
 }

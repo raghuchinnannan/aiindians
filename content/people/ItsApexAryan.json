@@ -13,5 +13,19 @@
   },
   "profileLocation": null,
   "profileUrl": "https://linktr.ee/_aryansingh",
-  "profileIsVerified": false
+  "profileIsVerified": false,
+  "profileMetricsLog": [
+    {
+      "date": "2024-06-12",
+      "followersCount": 468,
+      "followingCount": 427,
+      "tweetCount": 2808
+    },
+    {
+      "date": "2024-06-16",
+      "followersCount": 467,
+      "followingCount": 428,
+      "tweetCount": 2881
+    }
+  ]
 }

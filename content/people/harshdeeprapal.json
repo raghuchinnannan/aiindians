@@ -14,5 +14,19 @@
   },
   "profileLocation": "New Delhi, India",
   "profileUrl": "http://legittai.com",
-  "profileIsVerified": false
+  "profileIsVerified": false,
+  "profileMetricsLog": [
+    {
+      "date": "2024-06-12",
+      "followersCount": 1539,
+      "followingCount": 486,
+      "tweetCount": 8388
+    },
+    {
+      "date": "2024-06-16",
+      "followersCount": 1549,
+      "followingCount": 491,
+      "tweetCount": 8418
+    }
+  ]
 }

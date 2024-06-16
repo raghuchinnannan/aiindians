@@ -13,5 +13,19 @@
   },
   "profileLocation": "tmux",
   "profileUrl": "https://www.linkedin.com/in/nischalj10",
-  "profileIsVerified": false
+  "profileIsVerified": false,
+  "profileMetricsLog": [
+    {
+      "date": "2024-06-12",
+      "followersCount": 384,
+      "followingCount": 580,
+      "tweetCount": 1023
+    },
+    {
+      "date": "2024-06-16",
+      "followersCount": 439,
+      "followingCount": 598,
+      "tweetCount": 1071
+    }
+  ]
 }

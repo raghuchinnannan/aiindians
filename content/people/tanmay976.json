@@ -13,5 +13,19 @@
   },
   "profileLocation": "आर्यावर्त",
   "profileUrl": null,
-  "profileIsVerified": false
+  "profileIsVerified": false,
+  "profileMetricsLog": [
+    {
+      "date": "2024-06-12",
+      "followersCount": 961,
+      "followingCount": 3077,
+      "tweetCount": 41741
+    },
+    {
+      "date": "2024-06-16",
+      "followersCount": 1030,
+      "followingCount": 3297,
+      "tweetCount": 43472
+    }
+  ]
 }

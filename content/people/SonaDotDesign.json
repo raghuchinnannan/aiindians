@@ -14,5 +14,19 @@
   },
   "profileLocation": null,
   "profileUrl": "https://sivi.ai/",
-  "profileIsVerified": false
+  "profileIsVerified": false,
+  "profileMetricsLog": [
+    {
+      "date": "2024-06-12",
+      "followersCount": 69,
+      "followingCount": 36,
+      "tweetCount": 135
+    },
+    {
+      "date": "2024-06-16",
+      "followersCount": 74,
+      "followingCount": 37,
+      "tweetCount": 150
+    }
+  ]
 }

@@ -14,5 +14,19 @@
   },
   "profileLocation": "Metaverse",
   "profileUrl": "https://linktr.ee/preetam_quill",
-  "profileIsVerified": false
+  "profileIsVerified": false,
+  "profileMetricsLog": [
+    {
+      "date": "2024-06-12",
+      "followersCount": 1535,
+      "followingCount": 3196,
+      "tweetCount": 2887
+    },
+    {
+      "date": "2024-06-16",
+      "followersCount": 1585,
+      "followingCount": 3219,
+      "tweetCount": 2927
+    }
+  ]
 }

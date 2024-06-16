@@ -14,5 +14,19 @@
   },
   "profileLocation": "Latent Space",
   "profileUrl": "https://www.whycurious.com",
-  "profileIsVerified": false
+  "profileIsVerified": false,
+  "profileMetricsLog": [
+    {
+      "date": "2024-06-12",
+      "followersCount": 95,
+      "followingCount": 487,
+      "tweetCount": 149
+    },
+    {
+      "date": "2024-06-16",
+      "followersCount": 111,
+      "followingCount": 488,
+      "tweetCount": 149
+    }
+  ]
 }

@@ -13,5 +13,19 @@
   },
   "profileLocation": "Earth ",
   "profileUrl": "http://linktr.ee/shubh_ev",
-  "profileIsVerified": false
+  "profileIsVerified": false,
+  "profileMetricsLog": [
+    {
+      "date": "2024-06-12",
+      "followersCount": 725,
+      "followingCount": 3535,
+      "tweetCount": 9108
+    },
+    {
+      "date": "2024-06-16",
+      "followersCount": 747,
+      "followingCount": 3557,
+      "tweetCount": 9501
+    }
+  ]
 }

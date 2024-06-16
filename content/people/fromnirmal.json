@@ -14,5 +14,19 @@
   },
   "profileLocation": "Gandhinagar, Gujarat, India",
   "profileUrl": "http://www.nirmaljpatel.com",
-  "profileIsVerified": false
+  "profileIsVerified": false,
+  "profileMetricsLog": [
+    {
+      "date": "2024-06-12",
+      "followersCount": 472,
+      "followingCount": 1222,
+      "tweetCount": 4123
+    },
+    {
+      "date": "2024-06-16",
+      "followersCount": 512,
+      "followingCount": 1312,
+      "tweetCount": 4363
+    }
+  ]
 }

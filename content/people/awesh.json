@@ -14,5 +14,19 @@
   },
   "profileLocation": "India, Pune",
   "profileUrl": "http://imawesh.com",
-  "profileIsVerified": false
+  "profileIsVerified": false,
+  "profileMetricsLog": [
+    {
+      "date": "2024-06-12",
+      "followersCount": 1380,
+      "followingCount": 2462,
+      "tweetCount": 14340
+    },
+    {
+      "date": "2024-06-16",
+      "followersCount": 1389,
+      "followingCount": 2466,
+      "tweetCount": 14369
+    }
+  ]
 }

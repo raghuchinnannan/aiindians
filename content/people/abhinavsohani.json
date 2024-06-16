@@ -14,5 +14,19 @@
   },
   "profileLocation": "Indore, India",
   "profileUrl": "https://recast.studio",
-  "profileIsVerified": false
+  "profileIsVerified": false,
+  "profileMetricsLog": [
+    {
+      "date": "2024-06-12",
+      "followersCount": 345,
+      "followingCount": 430,
+      "tweetCount": 706
+    },
+    {
+      "date": "2024-06-16",
+      "followersCount": 353,
+      "followingCount": 431,
+      "tweetCount": 706
+    }
+  ]
 }

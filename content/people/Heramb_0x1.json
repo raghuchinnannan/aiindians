@@ -24,5 +24,19 @@
   },
   "profileLocation": "Konkan - Pune, India",
   "profileUrl": "https://heramb-salunkhe.super.site",
-  "profileIsVerified": false
+  "profileIsVerified": false,
+  "profileMetricsLog": [
+    {
+      "date": "2024-06-12",
+      "followersCount": 20,
+      "followingCount": 145,
+      "tweetCount": 39
+    },
+    {
+      "date": "2024-06-16",
+      "followersCount": 21,
+      "followingCount": 150,
+      "tweetCount": 39
+    }
+  ]
 }

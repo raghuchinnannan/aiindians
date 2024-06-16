@@ -14,5 +14,19 @@
   },
   "profileLocation": "Shop from screenshots ➡️",
   "profileUrl": "http://onelink.to/aishop",
-  "profileIsVerified": false
+  "profileIsVerified": false,
+  "profileMetricsLog": [
+    {
+      "date": "2024-06-12",
+      "followersCount": 7,
+      "followingCount": 62,
+      "tweetCount": 46
+    },
+    {
+      "date": "2024-06-16",
+      "followersCount": 20,
+      "followingCount": 62,
+      "tweetCount": 56
+    }
+  ]
 }

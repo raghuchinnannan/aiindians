@@ -14,5 +14,19 @@
   },
   "profileLocation": "Bengaluru, India",
   "profileUrl": "https://crazehq.com",
-  "profileIsVerified": false
+  "profileIsVerified": false,
+  "profileMetricsLog": [
+    {
+      "date": "2024-06-12",
+      "followersCount": 84,
+      "followingCount": 329,
+      "tweetCount": 275
+    },
+    {
+      "date": "2024-06-16",
+      "followersCount": 86,
+      "followingCount": 334,
+      "tweetCount": 279
+    }
+  ]
 }

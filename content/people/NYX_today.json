@@ -14,5 +14,19 @@
   },
   "profileLocation": "Bangalore",
   "profileUrl": "https://www.NYX.today/",
-  "profileIsVerified": false
+  "profileIsVerified": false,
+  "profileMetricsLog": [
+    {
+      "date": "2024-06-12",
+      "followersCount": 24,
+      "followingCount": 5,
+      "tweetCount": 29
+    },
+    {
+      "date": "2024-06-16",
+      "followersCount": 25,
+      "followingCount": 5,
+      "tweetCount": 34
+    }
+  ]
 }

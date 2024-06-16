@@ -14,5 +14,19 @@
   },
   "profileLocation": "Bangalore / Ahmedabad",
   "profileUrl": "http://www.1811labs.com",
-  "profileIsVerified": false
+  "profileIsVerified": false,
+  "profileMetricsLog": [
+    {
+      "date": "2024-06-12",
+      "followersCount": 6022,
+      "followingCount": 1750,
+      "tweetCount": 7692
+    },
+    {
+      "date": "2024-06-16",
+      "followersCount": 6067,
+      "followingCount": 1753,
+      "tweetCount": 7841
+    }
+  ]
 }

@@ -13,5 +13,19 @@
   },
   "profileLocation": "Bangalore, India",
   "profileUrl": "https://whynesspower-portfolio.vercel.app/",
-  "profileIsVerified": false
+  "profileIsVerified": false,
+  "profileMetricsLog": [
+    {
+      "date": "2024-06-12",
+      "followersCount": 5047,
+      "followingCount": 630,
+      "tweetCount": 2197
+    },
+    {
+      "date": "2024-06-16",
+      "followersCount": 5553,
+      "followingCount": 650,
+      "tweetCount": 2273
+    }
+  ]
 }

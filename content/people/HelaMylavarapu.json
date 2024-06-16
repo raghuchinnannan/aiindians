@@ -14,5 +14,19 @@
   },
   "profileLocation": "Bengaluru, India",
   "profileUrl": null,
-  "profileIsVerified": false
+  "profileIsVerified": false,
+  "profileMetricsLog": [
+    {
+      "date": "2024-06-12",
+      "followersCount": 870,
+      "followingCount": 764,
+      "tweetCount": 997
+    },
+    {
+      "date": "2024-06-16",
+      "followersCount": 875,
+      "followingCount": 773,
+      "tweetCount": 1012
+    }
+  ]
 }

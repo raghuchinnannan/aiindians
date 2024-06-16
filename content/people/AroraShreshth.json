@@ -14,5 +14,19 @@
   },
   "profileLocation": "BLR | DEL",
   "profileUrl": "http://shreshtharora.xyz/bio",
-  "profileIsVerified": false
+  "profileIsVerified": false,
+  "profileMetricsLog": [
+    {
+      "date": "2024-06-12",
+      "followersCount": 1596,
+      "followingCount": 2811,
+      "tweetCount": 7209
+    },
+    {
+      "date": "2024-06-16",
+      "followersCount": 1655,
+      "followingCount": 2948,
+      "tweetCount": 7285
+    }
+  ]
 }

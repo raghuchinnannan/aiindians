@@ -14,5 +14,19 @@
   },
   "profileLocation": "New Delhi, India",
   "profileUrl": "https://Editrix.ai",
-  "profileIsVerified": false
+  "profileIsVerified": false,
+  "profileMetricsLog": [
+    {
+      "date": "2024-06-12",
+      "followersCount": 16512,
+      "followingCount": 1228,
+      "tweetCount": 8045
+    },
+    {
+      "date": "2024-06-16",
+      "followersCount": 16517,
+      "followingCount": 1235,
+      "tweetCount": 8056
+    }
+  ]
 }

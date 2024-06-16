@@ -13,5 +13,19 @@
   },
   "profileLocation": "Kolata",
   "profileUrl": "https://www.linkedin.com/in/debdut-bhaduri-32323156",
-  "profileIsVerified": false
+  "profileIsVerified": false,
+  "profileMetricsLog": [
+    {
+      "date": "2024-06-12",
+      "followersCount": 13,
+      "followingCount": 74,
+      "tweetCount": 185
+    },
+    {
+      "date": "2024-06-16",
+      "followersCount": 13,
+      "followingCount": 75,
+      "tweetCount": 185
+    }
+  ]
 }

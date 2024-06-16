@@ -14,5 +14,19 @@
   },
   "profileLocation": "Bengaluru ",
   "profileUrl": "https://dub.sh/Bhat",
-  "profileIsVerified": false
+  "profileIsVerified": false,
+  "profileMetricsLog": [
+    {
+      "date": "2024-06-12",
+      "followersCount": 363,
+      "followingCount": 2076,
+      "tweetCount": 2281
+    },
+    {
+      "date": "2024-06-16",
+      "followersCount": 382,
+      "followingCount": 2083,
+      "tweetCount": 2444
+    }
+  ]
 }

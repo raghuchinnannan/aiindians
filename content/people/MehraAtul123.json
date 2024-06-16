@@ -14,5 +14,19 @@
   },
   "profileLocation": "Pune",
   "profileUrl": "https://www.linkedin.com/company/vaayushop",
-  "profileIsVerified": false
+  "profileIsVerified": false,
+  "profileMetricsLog": [
+    {
+      "date": "2024-06-12",
+      "followersCount": 630,
+      "followingCount": 1083,
+      "tweetCount": 4125
+    },
+    {
+      "date": "2024-06-16",
+      "followersCount": 685,
+      "followingCount": 1107,
+      "tweetCount": 4274
+    }
+  ]
 }

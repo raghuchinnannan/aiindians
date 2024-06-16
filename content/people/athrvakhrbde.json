@@ -14,5 +14,19 @@
   },
   "profileLocation": "Pale Blue Dot",
   "profileUrl": "http://athrvakhrbde.com",
-  "profileIsVerified": false
+  "profileIsVerified": false,
+  "profileMetricsLog": [
+    {
+      "date": "2024-06-12",
+      "followersCount": 10582,
+      "followingCount": 241,
+      "tweetCount": 18388
+    },
+    {
+      "date": "2024-06-16",
+      "followersCount": 10624,
+      "followingCount": 241,
+      "tweetCount": 18518
+    }
+  ]
 }

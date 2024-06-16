@@ -14,5 +14,19 @@
   },
   "profileLocation": null,
   "profileUrl": "https://qrev.ai",
-  "profileIsVerified": false
+  "profileIsVerified": false,
+  "profileMetricsLog": [
+    {
+      "date": "2024-06-12",
+      "followersCount": 484,
+      "followingCount": 2139,
+      "tweetCount": 3235
+    },
+    {
+      "date": "2024-06-16",
+      "followersCount": 501,
+      "followingCount": 2150,
+      "tweetCount": 3245
+    }
+  ]
 }

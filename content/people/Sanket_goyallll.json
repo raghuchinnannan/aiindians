@@ -13,5 +13,19 @@
   },
   "profileLocation": "Gurgaon",
   "profileUrl": "https://saydata.tech?ref=xs",
-  "profileIsVerified": false
+  "profileIsVerified": false,
+  "profileMetricsLog": [
+    {
+      "date": "2024-06-12",
+      "followersCount": 651,
+      "followingCount": 811,
+      "tweetCount": 1800
+    },
+    {
+      "date": "2024-06-16",
+      "followersCount": 666,
+      "followingCount": 811,
+      "tweetCount": 1808
+    }
+  ]
 }

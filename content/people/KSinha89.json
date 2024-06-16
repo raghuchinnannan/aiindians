@@ -14,5 +14,19 @@
   },
   "profileLocation": null,
   "profileUrl": "http://www.unifillai.com",
-  "profileIsVerified": false
+  "profileIsVerified": false,
+  "profileMetricsLog": [
+    {
+      "date": "2024-06-12",
+      "followersCount": 86,
+      "followingCount": 681,
+      "tweetCount": 1117
+    },
+    {
+      "date": "2024-06-16",
+      "followersCount": 96,
+      "followingCount": 682,
+      "tweetCount": 1127
+    }
+  ]
 }

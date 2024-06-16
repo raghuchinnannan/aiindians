@@ -14,5 +14,19 @@
   },
   "profileLocation": "Your laptop",
   "profileUrl": "https://www.producthunt.com/posts/launchnow",
-  "profileIsVerified": false
+  "profileIsVerified": false,
+  "profileMetricsLog": [
+    {
+      "date": "2024-06-12",
+      "followersCount": 1635,
+      "followingCount": 1203,
+      "tweetCount": 2650
+    },
+    {
+      "date": "2024-06-16",
+      "followersCount": 1648,
+      "followingCount": 1203,
+      "tweetCount": 2670
+    }
+  ]
 }

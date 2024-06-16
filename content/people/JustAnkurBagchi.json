@@ -13,5 +13,19 @@
   },
   "profileLocation": "Bengaluru",
   "profileUrl": "http://discord.gg/jVK78QcyjH",
-  "profileIsVerified": false
+  "profileIsVerified": false,
+  "profileMetricsLog": [
+    {
+      "date": "2024-06-12",
+      "followersCount": 3089,
+      "followingCount": 938,
+      "tweetCount": 9010
+    },
+    {
+      "date": "2024-06-16",
+      "followersCount": 3102,
+      "followingCount": 935,
+      "tweetCount": 9120
+    }
+  ]
 }

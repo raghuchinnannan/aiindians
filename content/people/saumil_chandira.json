@@ -14,5 +14,19 @@
   },
   "profileLocation": "Ahmedabad",
   "profileUrl": "http://remasto.com",
-  "profileIsVerified": false
+  "profileIsVerified": false,
+  "profileMetricsLog": [
+    {
+      "date": "2024-06-12",
+      "followersCount": 137,
+      "followingCount": 377,
+      "tweetCount": 225
+    },
+    {
+      "date": "2024-06-16",
+      "followersCount": 146,
+      "followingCount": 382,
+      "tweetCount": 234
+    }
+  ]
 }

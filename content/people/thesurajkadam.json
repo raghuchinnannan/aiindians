@@ -13,5 +13,19 @@
   },
   "profileLocation": "United States",
   "profileUrl": "https://subtitleo.com/",
-  "profileIsVerified": false
+  "profileIsVerified": false,
+  "profileMetricsLog": [
+    {
+      "date": "2024-06-12",
+      "followersCount": 163,
+      "followingCount": 137,
+      "tweetCount": 1293
+    },
+    {
+      "date": "2024-06-16",
+      "followersCount": 165,
+      "followingCount": 137,
+      "tweetCount": 1293
+    }
+  ]
 }

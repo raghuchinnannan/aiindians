@@ -14,5 +14,19 @@
   },
   "profileLocation": "🌎",
   "profileUrl": "https://chatveda.com",
-  "profileIsVerified": false
+  "profileIsVerified": false,
+  "profileMetricsLog": [
+    {
+      "date": "2024-06-12",
+      "followersCount": 4553,
+      "followingCount": 2955,
+      "tweetCount": 3714
+    },
+    {
+      "date": "2024-06-16",
+      "followersCount": 4566,
+      "followingCount": 2955,
+      "tweetCount": 3718
+    }
+  ]
 }

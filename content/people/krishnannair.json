@@ -14,5 +14,19 @@
   },
   "profileLocation": "Bengaluru, India",
   "profileUrl": "http://www.geektrust.com",
-  "profileIsVerified": false
+  "profileIsVerified": false,
+  "profileMetricsLog": [
+    {
+      "date": "2024-06-12",
+      "followersCount": 1946,
+      "followingCount": 538,
+      "tweetCount": 2649
+    },
+    {
+      "date": "2024-06-16",
+      "followersCount": 1951,
+      "followingCount": 539,
+      "tweetCount": 2653
+    }
+  ]
 }

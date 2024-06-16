@@ -14,5 +14,19 @@
   },
   "profileLocation": "Melbourne, Australia",
   "profileUrl": null,
-  "profileIsVerified": false
+  "profileIsVerified": false,
+  "profileMetricsLog": [
+    {
+      "date": "2024-06-12",
+      "followersCount": 239,
+      "followingCount": 948,
+      "tweetCount": 1815
+    },
+    {
+      "date": "2024-06-16",
+      "followersCount": 259,
+      "followingCount": 955,
+      "tweetCount": 1833
+    }
+  ]
 }

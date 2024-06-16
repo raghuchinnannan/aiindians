@@ -13,5 +13,19 @@
   },
   "profileLocation": "Pune India",
   "profileUrl": null,
-  "profileIsVerified": false
+  "profileIsVerified": false,
+  "profileMetricsLog": [
+    {
+      "date": "2024-06-12",
+      "followersCount": 186,
+      "followingCount": 39,
+      "tweetCount": 4159
+    },
+    {
+      "date": "2024-06-16",
+      "followersCount": 193,
+      "followingCount": 38,
+      "tweetCount": 4348
+    }
+  ]
 }

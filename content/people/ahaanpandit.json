@@ -14,5 +14,19 @@
   },
   "profileLocation": "Kuala Lumpur Federal Territory",
   "profileUrl": "https://ahaanpandit.online/",
-  "profileIsVerified": false
+  "profileIsVerified": false,
+  "profileMetricsLog": [
+    {
+      "date": "2024-06-12",
+      "followersCount": 2852,
+      "followingCount": 1005,
+      "tweetCount": 11711
+    },
+    {
+      "date": "2024-06-16",
+      "followersCount": 2859,
+      "followingCount": 1006,
+      "tweetCount": 11799
+    }
+  ]
 }

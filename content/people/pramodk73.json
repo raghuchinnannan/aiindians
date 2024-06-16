@@ -14,5 +14,19 @@
   },
   "profileLocation": "Bangalore",
   "profileUrl": "http://pramod73.in",
-  "profileIsVerified": false
+  "profileIsVerified": false,
+  "profileMetricsLog": [
+    {
+      "date": "2024-06-12",
+      "followersCount": 1657,
+      "followingCount": 304,
+      "tweetCount": 9260
+    },
+    {
+      "date": "2024-06-16",
+      "followersCount": 1702,
+      "followingCount": 307,
+      "tweetCount": 9422
+    }
+  ]
 }

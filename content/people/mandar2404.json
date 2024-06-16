@@ -14,5 +14,19 @@
   },
   "profileLocation": "Found occasionally on Zoom😜",
   "profileUrl": "https://visualdub.ai/",
-  "profileIsVerified": false
+  "profileIsVerified": false,
+  "profileMetricsLog": [
+    {
+      "date": "2024-06-12",
+      "followersCount": 2463,
+      "followingCount": 3921,
+      "tweetCount": 20373
+    },
+    {
+      "date": "2024-06-16",
+      "followersCount": 2583,
+      "followingCount": 3925,
+      "tweetCount": 20445
+    }
+  ]
 }

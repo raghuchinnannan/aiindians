@@ -14,5 +14,19 @@
   },
   "profileLocation": "Bangalore/SanFrancisco",
   "profileUrl": "https://superkalam.com",
-  "profileIsVerified": false
+  "profileIsVerified": false,
+  "profileMetricsLog": [
+    {
+      "date": "2024-06-12",
+      "followersCount": 1762,
+      "followingCount": 272,
+      "tweetCount": 1450
+    },
+    {
+      "date": "2024-06-16",
+      "followersCount": 1774,
+      "followingCount": 280,
+      "tweetCount": 1462
+    }
+  ]
 }

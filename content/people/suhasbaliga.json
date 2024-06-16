@@ -14,5 +14,19 @@
   },
   "profileLocation": "Bangalore",
   "profileUrl": "http://tipsytom.com/app",
-  "profileIsVerified": false
+  "profileIsVerified": false,
+  "profileMetricsLog": [
+    {
+      "date": "2024-06-12",
+      "followersCount": 2434,
+      "followingCount": 4626,
+      "tweetCount": 34636
+    },
+    {
+      "date": "2024-06-16",
+      "followersCount": 2442,
+      "followingCount": 4635,
+      "tweetCount": 34829
+    }
+  ]
 }

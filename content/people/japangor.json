@@ -14,5 +14,19 @@
   },
   "profileLocation": "Boston, MA",
   "profileUrl": "https://gjam.in",
-  "profileIsVerified": false
+  "profileIsVerified": false,
+  "profileMetricsLog": [
+    {
+      "date": "2024-06-12",
+      "followersCount": 567,
+      "followingCount": 5273,
+      "tweetCount": 1382
+    },
+    {
+      "date": "2024-06-16",
+      "followersCount": 605,
+      "followingCount": 5295,
+      "tweetCount": 1499
+    }
+  ]
 }

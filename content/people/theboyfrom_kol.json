@@ -13,5 +13,19 @@
   },
   "profileLocation": "San Francisco, CA",
   "profileUrl": "http://linkedin.com/in/dipamp/",
-  "profileIsVerified": false
+  "profileIsVerified": false,
+  "profileMetricsLog": [
+    {
+      "date": "2024-06-12",
+      "followersCount": 443,
+      "followingCount": 5515,
+      "tweetCount": 358
+    },
+    {
+      "date": "2024-06-16",
+      "followersCount": 488,
+      "followingCount": 5559,
+      "tweetCount": 366
+    }
+  ]
 }

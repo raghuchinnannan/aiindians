@@ -14,5 +14,19 @@
   },
   "profileLocation": null,
   "profileUrl": "https://producthacks.io/p/the-quick-commerce-comeback",
-  "profileIsVerified": false
+  "profileIsVerified": false,
+  "profileMetricsLog": [
+    {
+      "date": "2024-06-12",
+      "followersCount": 6033,
+      "followingCount": 290,
+      "tweetCount": 1885
+    },
+    {
+      "date": "2024-06-16",
+      "followersCount": 6047,
+      "followingCount": 265,
+      "tweetCount": 1928
+    }
+  ]
 }

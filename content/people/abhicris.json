@@ -14,5 +14,19 @@
   },
   "profileLocation": "Tokyo-to, Japan",
   "profileUrl": "https://createprotocol.org",
-  "profileIsVerified": false
+  "profileIsVerified": false,
+  "profileMetricsLog": [
+    {
+      "date": "2024-06-12",
+      "followersCount": 954,
+      "followingCount": 3271,
+      "tweetCount": 2102
+    },
+    {
+      "date": "2024-06-16",
+      "followersCount": 981,
+      "followingCount": 3283,
+      "tweetCount": 2121
+    }
+  ]
 }

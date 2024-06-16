@@ -14,5 +14,19 @@
   },
   "profileLocation": "Bengaluru, India",
   "profileUrl": "https://shobhitic.com/",
-  "profileIsVerified": false
+  "profileIsVerified": false,
+  "profileMetricsLog": [
+    {
+      "date": "2024-06-12",
+      "followersCount": 7897,
+      "followingCount": 483,
+      "tweetCount": 24628
+    },
+    {
+      "date": "2024-06-16",
+      "followersCount": 7928,
+      "followingCount": 483,
+      "tweetCount": 24805
+    }
+  ]
 }

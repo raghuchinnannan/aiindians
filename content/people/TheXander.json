@@ -13,5 +13,19 @@
   },
   "profileLocation": "Physical: ATX Spiritual: BKNY",
   "profileUrl": "http://www.TheDJHookup.com",
-  "profileIsVerified": false
+  "profileIsVerified": false,
+  "profileMetricsLog": [
+    {
+      "date": "2024-06-12",
+      "followersCount": 508,
+      "followingCount": 350,
+      "tweetCount": 2923
+    },
+    {
+      "date": "2024-06-16",
+      "followersCount": 521,
+      "followingCount": 350,
+      "tweetCount": 2925
+    }
+  ]
 }

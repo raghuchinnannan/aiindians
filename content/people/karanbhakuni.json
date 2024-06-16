@@ -14,5 +14,19 @@
   },
   "profileLocation": " 🟩🟩🟨⬜⬜⬜⬜⬜⬜⬜ $10k MRR",
   "profileUrl": "https://www.grigora.co",
-  "profileIsVerified": false
+  "profileIsVerified": false,
+  "profileMetricsLog": [
+    {
+      "date": "2024-06-12",
+      "followersCount": 2368,
+      "followingCount": 1872,
+      "tweetCount": 5253
+    },
+    {
+      "date": "2024-06-16",
+      "followersCount": 2376,
+      "followingCount": 1867,
+      "tweetCount": 5253
+    }
+  ]
 }

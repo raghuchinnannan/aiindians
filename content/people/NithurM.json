@@ -14,5 +14,19 @@
   },
   "profileLocation": null,
   "profileUrl": null,
-  "profileIsVerified": false
+  "profileIsVerified": false,
+  "profileMetricsLog": [
+    {
+      "date": "2024-06-12",
+      "followersCount": 4685,
+      "followingCount": 199,
+      "tweetCount": 8513
+    },
+    {
+      "date": "2024-06-16",
+      "followersCount": 4678,
+      "followingCount": 197,
+      "tweetCount": 8659
+    }
+  ]
 }

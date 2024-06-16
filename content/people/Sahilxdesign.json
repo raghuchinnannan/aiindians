@@ -13,5 +13,19 @@
   },
   "profileLocation": "Dilli",
   "profileUrl": "http://youtube.com/thecreativehustle",
-  "profileIsVerified": false
+  "profileIsVerified": false,
+  "profileMetricsLog": [
+    {
+      "date": "2024-06-12",
+      "followersCount": 2548,
+      "followingCount": 1327,
+      "tweetCount": 2930
+    },
+    {
+      "date": "2024-06-16",
+      "followersCount": 2568,
+      "followingCount": 1325,
+      "tweetCount": 2930
+    }
+  ]
 }

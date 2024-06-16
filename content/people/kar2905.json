@@ -14,5 +14,19 @@
   },
   "profileLocation": "Remote",
   "profileUrl": "http://springworks.in",
-  "profileIsVerified": false
+  "profileIsVerified": false,
+  "profileMetricsLog": [
+    {
+      "date": "2024-06-12",
+      "followersCount": 7458,
+      "followingCount": 665,
+      "tweetCount": 19923
+    },
+    {
+      "date": "2024-06-16",
+      "followersCount": 7450,
+      "followingCount": 665,
+      "tweetCount": 19928
+    }
+  ]
 }

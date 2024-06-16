@@ -14,5 +14,19 @@
   },
   "profileLocation": "Bombay",
   "profileUrl": "https://bit.ly/rohanagrwl",
-  "profileIsVerified": false
+  "profileIsVerified": false,
+  "profileMetricsLog": [
+    {
+      "date": "2024-06-12",
+      "followersCount": 299,
+      "followingCount": 1416,
+      "tweetCount": 3329
+    },
+    {
+      "date": "2024-06-16",
+      "followersCount": 318,
+      "followingCount": 1418,
+      "tweetCount": 3330
+    }
+  ]
 }
