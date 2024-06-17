@@ -1,6 +1,6 @@
 {
-  "date": "2024-06-13T12:52:15.777Z",
-  "preset": "static",
+  "date": "2024-06-17T08:49:40.577Z",
+  "preset": "node-server",
   "framework": {
     "name": "nuxt",
     "version": "3.11.2"
@@ -9,6 +9,6 @@
     "nitro": "2.9.6"
   },
   "commands": {
-    "preview": "npx serve ./public"
+    "preview": "node ./server/index.mjs"
   }
 }
