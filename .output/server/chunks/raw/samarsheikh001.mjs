@@ -1,5 +1,0 @@
-// ROLLUP_NO_REPLACE 
- const samarsheikh001 = "{\"parsed\":{\"_path\":\"/people/samarsheikh001\",\"_dir\":\"people\",\"_draft\":false,\"_partial\":false,\"_locale\":\"\",\"name\":\"Shea\",\"username\":\"@samarsheikh001\",\"productDescription\":\"An automated AI browsing tool.\",\"profileCreatedAt\":\"2016-04-04T13:15:33.000Z\",\"profileDescription\":\"studying anything about CS\\n\\nbuilding @\\n\\nreverse engineer, web, apps and startup’s\\n\\ncurrently building #streak app\",\"profileImageUrl\":\"https://pbs.twimg.com/profile_images/1791487945834446851/14HXdue6_normal.jpg\",\"profileMetrics\":{\"followersCount\":415,\"followingCount\":1739,\"tweetCount\":9081,\"listedCount\":0},\"profileLocation\":null,\"profileUrl\":null,\"profileIsVerified\":false,\"_id\":\"content:people:samarsheikh001.json\",\"_type\":\"json\",\"title\":\"Samarsheikh001\",\"_source\":\"content\",\"_file\":\"people/samarsheikh001.json\",\"_extension\":\"json\"},\"hash\":\"c39u6WSA9b\"}";
-
-export { samarsheikh001 as default };
-//# sourceMappingURL=samarsheikh001.mjs.map

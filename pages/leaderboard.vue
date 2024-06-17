@@ -14,14 +14,14 @@
           :key="person.username"
           :class="getRankClass(index)"
         >
-          <td class="flex flex-nowrap content-center">
+          <td class="flex flex-nowrap content-center align-middle">
             <div class="mr-4 text-xl md:text-4xl content-center">
               {{ getRankEmoji(index) }}
             </div>
             <div class="content-center md:w-16 w-8 mr-4">
               <img :src="person.profileImageUrl" class="md:w-16 md:h-16 w-8 h-8 rounded-full inline-block" />
             </div>
-            <a :href="'https://x.com/' + person.username" class="text-md font-semibold hover:underline align-middle" target="_blank">
+            <a :href="'https://x.com/' + person.username" class="text-md font-semibold hover:underline block content-center align-middle" target="_blank">
               {{ person.name }} <span class="md:inline hidden">({{ person.username }})</span>
             </a>
           </td>
